@@ -14,6 +14,12 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
 
+  <scm>
+	<connection>scm:git:git@github.com:valtechFR/git-demo.git</connection>
+	<url>scm:git:git@github.com:valtechFR/git-demo.git</url>
+	<developerConnection>scm:git:git@github.com:valtechFR/git-demo.git</developerConnection>
+  </scm>
+
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
